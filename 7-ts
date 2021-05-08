@@ -1,8 +1,4 @@
-======={KINGS x GENERASI STREAMING}=======
- 
-================AAA===================
-
-#EXTM3U: XONX
+#EXTM3U,
 
 #EXTINF:-1  group-title="MAL",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
